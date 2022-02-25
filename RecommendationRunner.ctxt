@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RecommendationRunner
+comment1.params=
+comment1.target=java.util.ArrayList\ getItemsToRate()
+comment1.text=\n\ randomly\ pick\ 10\ movie\ to\ let\ the\ user\ to\ rate.\n\ will\ optimize\ soon\ to\ rate\ the\ most\ popular\ movie.\n\ Because\ the\ most\ movies\ i\ met\ for\ rating\ that\ i'm\ not\ familiar\ with.\n
+comment2.params=webRaterID
+comment2.target=void\ printRecommendationsFor(java.lang.String)
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MovieRunnerSimilarRatings
+comment1.params=
+comment1.target=void\ printSimilarRatings()
+comment1.text=\n\ top\ 0-10\ similar\ rater\ id\:\n\ id\ \=\ 512\ rating\ 182.0\n\ id\ \=\ 1040\ rating\ 176.0\n\ id\ \=\ 146\ rating\ 160.0\n\ id\ \=\ 934\ rating\ 143.0\n\ id\ \=\ 735\ rating\ 126.0\n\ id\ \=\ 855\ rating\ 120.0\n\ id\ \=\ 769\ rating\ 116.0\n\ id\ \=\ 431\ rating\ 105.0\n\ id\ \=\ 76\ rating\ 99.0\n\ id\ \=\ 168\ rating\ 99.0\n\ <p>\n\ top\ 10-20\ rater\ id\n\ id\ \=\ 463\ rating\ 99.0\n\ id\ \=\ 570\ rating\ 98.0\n\ id\ \=\ 678\ rating\ 97.0\n\ id\ \=\ 882\ rating\ 96.0\n\ id\ \=\ 846\ rating\ 96.0\n\ id\ \=\ 124\ rating\ 91.0\n\ id\ \=\ 555\ rating\ 91.0\n\ id\ \=\ 590\ rating\ 82.0\n\ id\ \=\ 25\ rating\ 80.0\n\ id\ \=\ 88\ rating\ 79.0\n
+comment2.params=
+comment2.target=void\ printSimilarRatingsByGenre()
+comment3.params=
+comment3.target=void\ printSimilarRatingsByDirector()
+comment4.params=
+comment4.target=void\ printSimilarRatingsByGenreAndMinutes()
+comment5.params=
+comment5.target=void\ printSimilarRatingsByYearAfterAndMinutes()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
